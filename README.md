@@ -14,4 +14,8 @@ Read Wiki
 <br />
 <br />
 
+inordr to play the project  install bash on windows 
 
+using 
+
+https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=627s
